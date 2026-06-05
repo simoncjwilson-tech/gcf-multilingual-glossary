@@ -1,0 +1,3830 @@
+{
+ "meta": {
+  "source": "GCF Programming Manual glossaries",
+  "languages": [
+   "EN",
+   "FR",
+   "ES",
+   "RU",
+   "AR",
+   "ZH"
+  ],
+  "acronyms": 87,
+  "key_terms": 41,
+  "note": "AR & ZH keep the English acronym; FR/ES/RU localise it. All six languages complete. Each entry carries a Source for provenance as the glossary grows beyond the Programming Manual.",
+  "sources": [
+   "Accreditation Framework of the GCF",
+   "GCF Programming Manual",
+   "Investment Framework for GCF-2"
+  ]
+ },
+ "items": [
+  {
+   "type": "acronym",
+   "en_acronym": "AE",
+   "en_term": "accredited entity",
+   "fr": {
+    "a": "EA",
+    "t": "entité accréditée"
+   },
+   "es": {
+    "a": "EA",
+    "t": "entidad acreditada"
+   },
+   "ru": {
+    "a": "АО",
+    "t": "аккредитованная организация"
+   },
+   "ar": {
+    "a": "AE",
+    "t": "الكيان المعتمد"
+   },
+   "zh": {
+    "a": "AE",
+    "t": "认证实体"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "AMA",
+   "en_term": "accreditation master agreement",
+   "fr": {
+    "a": "ACA",
+    "t": "accord-cadre d’accréditation"
+   },
+   "es": {
+    "a": "AMA",
+    "t": "acuerdo marco de acreditación"
+   },
+   "ru": {
+    "a": "ГСА",
+    "t": "генеральное соглашение об аккредитации"
+   },
+   "ar": {
+    "a": "AMA",
+    "t": "الاتفاق الإطاري للاعتماد"
+   },
+   "zh": {
+    "a": "AMA",
+    "t": "认证主协议"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "AML",
+   "en_term": "anti-money-laundering",
+   "fr": {
+    "a": "LBA",
+    "t": "lutte contre le blanchiment d’argent"
+   },
+   "es": {
+    "a": "ALD",
+    "t": "lucha contra el lavado de dinero"
+   },
+   "ru": {
+    "a": "БОД",
+    "t": "борьба с отмыванием денег"
+   },
+   "ar": {
+    "a": "AML",
+    "t": "مكافحة غسل الأموال"
+   },
+   "zh": {
+    "a": "AML",
+    "t": "反洗钱"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "AP",
+   "en_term": "Accreditation Panel",
+   "fr": {
+    "a": "PA",
+    "t": "panel d’accréditation"
+   },
+   "es": {
+    "a": "GA",
+    "t": "Grupo de Acreditación"
+   },
+   "ru": {
+    "a": "ГА",
+    "t": "Группа по аккредитации"
+   },
+   "ar": {
+    "a": "AP",
+    "t": "فريق الاعتماد"
+   },
+   "zh": {
+    "a": "AP",
+    "t": "认证小组"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "APR",
+   "en_term": "annual performance report",
+   "fr": {
+    "a": "RAP",
+    "t": "rapport annuel de performance"
+   },
+   "es": {
+    "a": "IAE",
+    "t": "informe anual de ejecución"
+   },
+   "ru": {
+    "a": "ГОД",
+    "t": "годовой отчет о деятельности"
+   },
+   "ar": {
+    "a": "APR",
+    "t": "تقرير الأداء السنوي"
+   },
+   "zh": {
+    "a": "APR",
+    "t": "年度执行情况报告"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "CFT",
+   "en_term": "countering the financing of terrorism",
+   "fr": {
+    "a": "CFT",
+    "t": "contrer le financement du terrorisme"
+   },
+   "es": {
+    "a": "LFT",
+    "t": "lucha contra el financiación del terrorismo"
+   },
+   "ru": {
+    "a": "ПФТ",
+    "t": "противодействие финансированию терроризма"
+   },
+   "ar": {
+    "a": "CFT",
+    "t": "التصدي لتمويل الإرهاب"
+   },
+   "zh": {
+    "a": "CFT",
+    "t": "打击资助恐怖主义行为"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "CIC",
+   "en_term": "Climate Investment Committee",
+   "fr": {
+    "a": "CIC",
+    "t": "Comité d’investissement pour le climat"
+   },
+   "es": {
+    "a": "CIC",
+    "t": "Comité de Inversión Climática"
+   },
+   "ru": {
+    "a": "КИК",
+    "t": "Климатический инвестиционный комитет"
+   },
+   "ar": {
+    "a": "CIC",
+    "t": "لجنة الاستثمارات في مجال المناخ"
+   },
+   "zh": {
+    "a": "CIC",
+    "t": "气候投资委员会"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "CIF",
+   "en_term": "Climate Investment Funds",
+   "fr": {
+    "a": "CIF",
+    "t": "Fonds d’investissement pour le climat"
+   },
+   "es": {
+    "a": "FIC",
+    "t": "Fondos de Inversión en el Clima"
+   },
+   "ru": {
+    "a": "КИФ",
+    "t": "климатические инвестиционные фонды"
+   },
+   "ar": {
+    "a": "CIF",
+    "t": "صناديق الاستثمار المناخي"
+   },
+   "zh": {
+    "a": "CIF",
+    "t": "气候投资基金"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "CN",
+   "en_term": "concept note",
+   "fr": {
+    "a": "NC",
+    "t": "note conceptuelle"
+   },
+   "es": {
+    "a": "NC",
+    "t": "nota conceptual"
+   },
+   "ru": {
+    "a": "КЗ",
+    "t": "концептуальная записка"
+   },
+   "ar": {
+    "a": "CN",
+    "t": "المذكرة المفاهيمية"
+   },
+   "zh": {
+    "a": "CN",
+    "t": "概念说明"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "CO2eq",
+   "en_term": "carbon dioxide equivalent",
+   "fr": {
+    "a": "eqCO2",
+    "t": "équivalent de dioxyde de carbone"
+   },
+   "es": {
+    "a": "CO2eq",
+    "t": "dióxido de carbono equivalente"
+   },
+   "ru": {
+    "a": "CO2э",
+    "t": "эквивалент двуокиси углерода"
+   },
+   "ar": {
+    "a": "CO2eq",
+    "t": "مكافئ ثاني أكسيد الكربون"
+   },
+   "zh": {
+    "a": "CO2eq",
+    "t": "二氧化碳当量"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "COP",
+   "en_term": "Conference of the Parties",
+   "fr": {
+    "a": "COP",
+    "t": "Conférence des Parties"
+   },
+   "es": {
+    "a": "CP",
+    "t": "Conferencia de las Partes"
+   },
+   "ru": {
+    "a": "КС",
+    "t": "Конференция Сторон"
+   },
+   "ar": {
+    "a": "COP",
+    "t": "مؤتمر الأطراف"
+   },
+   "zh": {
+    "a": "COP",
+    "t": "缔约方会议"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "CP",
+   "en_term": "country programme",
+   "fr": {
+    "a": "PP",
+    "t": "programme de pays"
+   },
+   "es": {
+    "a": "PP",
+    "t": "programa del país"
+   },
+   "ru": {
+    "a": "СП",
+    "t": "страновая программа"
+   },
+   "ar": {
+    "a": "CP",
+    "t": "البرنامج القطري"
+   },
+   "zh": {
+    "a": "CP",
+    "t": "国家方案"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "CRR",
+   "en_term": "credit risk rating",
+   "fr": {
+    "a": "NRC",
+    "t": "notation du risque de crédit"
+   },
+   "es": {
+    "a": "CRC",
+    "t": "calificación de riesgo crediticio"
+   },
+   "ru": {
+    "a": "РКР",
+    "t": "рейтинг кредитного риска"
+   },
+   "ar": {
+    "a": "CRR",
+    "t": "تصنيف مخاطر الائتمان"
+   },
+   "zh": {
+    "a": "CRR",
+    "t": "信用风险评级"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "DAC",
+   "en_term": "Development Assistance Committee",
+   "fr": {
+    "a": "CAD",
+    "t": "Comité d’assistance au développement"
+   },
+   "es": {
+    "a": "CAD",
+    "t": "Comité de Asistencia para el Desarrollo"
+   },
+   "ru": {
+    "a": "КСР",
+    "t": "Комитет содействия развитию"
+   },
+   "ar": {
+    "a": "DAC",
+    "t": "لجنة المساعدة الإنمائية"
+   },
+   "zh": {
+    "a": "DAC",
+    "t": "发展援助委员会"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "DAE",
+   "en_term": "direct access entity",
+   "fr": {
+    "a": "EAD",
+    "t": "entité d’accès direct"
+   },
+   "es": {
+    "a": "EAD",
+    "t": "entidad de acceso directo"
+   },
+   "ru": {
+    "a": "ОПД",
+    "t": "организация с прямым доступом"
+   },
+   "ar": {
+    "a": "DAE",
+    "t": "كيان الوصول المباشر"
+   },
+   "zh": {
+    "a": "DAE",
+    "t": "直接准入实体"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "DCP",
+   "en_term": "Division of Country Programming",
+   "fr": {
+    "a": "DPP",
+    "t": "Division de la programmation de pays"
+   },
+   "es": {
+    "a": "DPP",
+    "t": "División de Programación por Países"
+   },
+   "ru": {
+    "a": "ОСП",
+    "t": "Отдел страновых программ"
+   },
+   "ar": {
+    "a": "DCP",
+    "t": "شعبة البرمجة القطرية"
+   },
+   "zh": {
+    "a": "DCP",
+    "t": "国家方案拟订司"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "DMA",
+   "en_term": "Division of Mitigation and Adaptation",
+   "fr": {
+    "a": "DAA",
+    "t": "Division de l’atténuation et de l’adaptation"
+   },
+   "es": {
+    "a": "DMA",
+    "t": "División de Mitigación y Adaptación"
+   },
+   "ru": {
+    "a": "ОСПА",
+    "t": "Отдел по смягчению последствий и адаптации"
+   },
+   "ar": {
+    "a": "DMA",
+    "t": "شعبة التخفيف والتكيف"
+   },
+   "zh": {
+    "a": "DMA",
+    "t": "缓解和适应司"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "EE",
+   "en_term": "executing entity",
+   "fr": {
+    "a": "EE",
+    "t": "entité d’exécution"
+   },
+   "es": {
+    "a": "EE",
+    "t": "entidad de ejecución"
+   },
+   "ru": {
+    "a": "ОИ",
+    "t": "организация-исполнитель"
+   },
+   "ar": {
+    "a": "EE",
+    "t": "الكيان المنفذ"
+   },
+   "zh": {
+    "a": "EE",
+    "t": "执行实体"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "EIRR",
+   "en_term": "economic internal rate of return",
+   "fr": {
+    "a": "TREI",
+    "t": "taux de rendement économique interne"
+   },
+   "es": {
+    "a": "TIRE",
+    "t": "tasa interna de rentabilidad económica"
+   },
+   "ru": {
+    "a": "ЭВНД",
+    "t": "экономическая внутренняя норма доходности"
+   },
+   "ar": {
+    "a": "EIRR",
+    "t": "معدل العائد الاقتصادي الداخلي"
+   },
+   "zh": {
+    "a": "EIRR",
+    "t": "经济内部收益率"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "ENPV",
+   "en_term": "economic net present value",
+   "fr": {
+    "a": "VANE",
+    "t": "valeur actuelle nette économique"
+   },
+   "es": {
+    "a": "VANE",
+    "t": "valor actual neto económico"
+   },
+   "ru": {
+    "a": "ЭЧПС",
+    "t": "экономическая чистая приведенная стоимость"
+   },
+   "ar": {
+    "a": "ENPV",
+    "t": "القيمة الحالية الصافية الاقتصادية"
+   },
+   "zh": {
+    "a": "ENPV",
+    "t": "经济净现值"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "E&S",
+   "en_term": "environmental and social",
+   "fr": {
+    "a": "E&S",
+    "t": "environnemental et social"
+   },
+   "es": {
+    "a": "A+S",
+    "t": "ambiental y social"
+   },
+   "ru": {
+    "a": "ЭиС",
+    "t": "экологические и социальные"
+   },
+   "ar": {
+    "a": "E&S",
+    "t": "البيئي والاجتماعي"
+   },
+   "zh": {
+    "a": "E&S",
+    "t": "环境和社会"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "ESIA",
+   "en_term": "environmental and social impact assessment",
+   "fr": {
+    "a": "EIES",
+    "t": "évaluation de l’impact environnemental et social"
+   },
+   "es": {
+    "a": "EIAS",
+    "t": "evaluación del impacto ambiental y social"
+   },
+   "ru": {
+    "a": "ОЭСП",
+    "t": "оценка экологических и социальных последствий"
+   },
+   "ar": {
+    "a": "ESIA",
+    "t": "تقييم الأثر البيئي والاجتماعي"
+   },
+   "zh": {
+    "a": "ESIA",
+    "t": "环境和社会影响评估"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "ESMF",
+   "en_term": "environmental and social management framework",
+   "fr": {
+    "a": "CGES",
+    "t": "cadre de gestion environnementale et sociale"
+   },
+   "es": {
+    "a": "MGAS",
+    "t": "marco de gestión ambiental y social"
+   },
+   "ru": {
+    "a": "МУЭСП",
+    "t": "механизм управления экологическими и социальными последствиями"
+   },
+   "ar": {
+    "a": "ESMF",
+    "t": "إطار الإدارة البيئية والاجتماعية"
+   },
+   "zh": {
+    "a": "ESMF",
+    "t": "环境和社会管理框架"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "ESMP",
+   "en_term": "environmental and social management plan",
+   "fr": {
+    "a": "PGES",
+    "t": "plan de gestion environnementale et sociale"
+   },
+   "es": {
+    "a": "PGAS",
+    "t": "plan de gestión ambiental y social"
+   },
+   "ru": {
+    "a": "ПУЭСП",
+    "t": "план управления экологическими и социальными последствиями"
+   },
+   "ar": {
+    "a": "ESMP",
+    "t": "خطة الإدارة البيئية والاجتماعية"
+   },
+   "zh": {
+    "a": "ESMP",
+    "t": "环境和社会管理计划"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "ESMS",
+   "en_term": "environmental and social management system",
+   "fr": {
+    "a": "SGES",
+    "t": "système de gestion environnementale et sociale"
+   },
+   "es": {
+    "a": "SGAS",
+    "t": "sistema de gestión ambiental y social"
+   },
+   "ru": {
+    "a": "СУЭСП",
+    "t": "система управления экологическими и социальными последствиями"
+   },
+   "ar": {
+    "a": "ESMS",
+    "t": "نظام الإدارة البيئية والاجتماعية"
+   },
+   "zh": {
+    "a": "ESMS",
+    "t": "环境和社会管理系统"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "ESS",
+   "en_term": "environmental and social safeguards",
+   "fr": {
+    "a": "SES",
+    "t": "sauvegardes environnementales et sociales"
+   },
+   "es": {
+    "a": "SAS",
+    "t": "salvaguardas ambientales y sociales"
+   },
+   "ru": {
+    "a": "ЭСГ",
+    "t": "экологические и социальные гарантии"
+   },
+   "ar": {
+    "a": "ESS",
+    "t": "الضمانات البيئية والاجتماعية"
+   },
+   "zh": {
+    "a": "ESS",
+    "t": "环境和社会保障"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "EWP",
+   "en_term": "entity work programme",
+   "fr": {
+    "a": "PTE",
+    "t": "programme de travail de l’entité"
+   },
+   "es": {
+    "a": "PTE",
+    "t": "programa de trabajo de entidades"
+   },
+   "ru": {
+    "a": "РПО",
+    "t": "рабочая программа организации"
+   },
+   "ar": {
+    "a": "EWP",
+    "t": "برنامج عمل الكيان"
+   },
+   "zh": {
+    "a": "EWP",
+    "t": "实体工作方案"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "FAA",
+   "en_term": "funded activity agreement",
+   "fr": {
+    "a": "AFA",
+    "t": "accord de financement d’activité"
+   },
+   "es": {
+    "a": "AAF",
+    "t": "acuerdo de actividades financiadas"
+   },
+   "ru": {
+    "a": "СФД",
+    "t": "соглашение о финансируемой деятельности"
+   },
+   "ar": {
+    "a": "FAA",
+    "t": "اتفاق النشاط الممول"
+   },
+   "zh": {
+    "a": "FAA",
+    "t": "资助活动协议"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "FAO",
+   "en_term": "Food and Agriculture Organization of the United Nations",
+   "fr": {
+    "a": "FAO",
+    "t": "Organisation des Nations Unies pour l’alimentation et l’agriculture"
+   },
+   "es": {
+    "a": "FAO",
+    "t": "Organización de las Naciones Unidas para la Alimentación y la Agricultura"
+   },
+   "ru": {
+    "a": "ФАО",
+    "t": "Продовольственная и сельскохозяйственная организация Объединенных Наций"
+   },
+   "ar": {
+    "a": "FAO",
+    "t": "منظمة الأغذية والزراعة للأمم المتحدة"
+   },
+   "zh": {
+    "a": "FAO",
+    "t": "联合国粮食及农业组织"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "FIRR",
+   "en_term": "financial internal rate of return",
+   "fr": {
+    "a": "TRIF",
+    "t": "taux de rendement interne financier"
+   },
+   "es": {
+    "a": "TIRF",
+    "t": "tasa interna de rentabilidad financiera"
+   },
+   "ru": {
+    "a": "ВНДФ",
+    "t": "внутренняя норма доходности в финансовом выражении"
+   },
+   "ar": {
+    "a": "FIRR",
+    "t": "معدل العائد المالي الداخلي"
+   },
+   "zh": {
+    "a": "FIRR",
+    "t": "财务内部收益率"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "FP",
+   "en_term": "funding proposal",
+   "fr": {
+    "a": "PF",
+    "t": "proposition de financement"
+   },
+   "es": {
+    "a": "PF",
+    "t": "propuesta de financiación"
+   },
+   "ru": {
+    "a": "ПФ",
+    "t": "предложение о финансировании"
+   },
+   "ar": {
+    "a": "FP",
+    "t": "مقترح التمويل"
+   },
+   "zh": {
+    "a": "FP",
+    "t": "资助提案"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "FPS",
+   "en_term": "fiduciary principles and standards",
+   "fr": {
+    "a": "PNF",
+    "t": "principes et normes fiduciaires"
+   },
+   "es": {
+    "a": "NPF",
+    "t": "normas y principios fiduciarios"
+   },
+   "ru": {
+    "a": "ФПС",
+    "t": "фидуциарные принципы и стандарты"
+   },
+   "ar": {
+    "a": "FPS",
+    "t": "المبادئ والمعايير الائتمانية"
+   },
+   "zh": {
+    "a": "FPS",
+    "t": "信托原则和标准"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "GCF",
+   "en_term": "Green Climate Fund",
+   "fr": {
+    "a": "GCF (FVC)",
+    "t": "Green Climate Fund (Fonds vert pour le climat)"
+   },
+   "es": {
+    "a": "FVC",
+    "t": "Fondo Verde para el Clima"
+   },
+   "ru": {
+    "a": "GCF",
+    "t": "Зеленый климатический фонд"
+   },
+   "ar": {
+    "a": "GCF",
+    "t": "الصندوق الأخضر للمناخ"
+   },
+   "zh": {
+    "a": "GCF",
+    "t": "绿色气候基金"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "GEF",
+   "en_term": "Global Environment Facility",
+   "fr": {
+    "a": "GEF (FEM)",
+    "t": "Global Environment Facility (Fonds pour l’environnement mondial)"
+   },
+   "es": {
+    "a": "FMAM",
+    "t": "Fondo para el Medio Ambiente Mundial"
+   },
+   "ru": {
+    "a": "ГЭФ",
+    "t": "Глобальный экологический фонд"
+   },
+   "ar": {
+    "a": "GEF",
+    "t": "مرفق البيئة العالمية"
+   },
+   "zh": {
+    "a": "GEF",
+    "t": "全球环境基金"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "GHG",
+   "en_term": "greenhouse gas",
+   "fr": {
+    "a": "GES",
+    "t": "gaz à effet de serre"
+   },
+   "es": {
+    "a": "GEI",
+    "t": "gas de efecto invernadero"
+   },
+   "ru": {
+    "a": "ПГ",
+    "t": "парниковый газ"
+   },
+   "ar": {
+    "a": "GHG",
+    "t": "الغازات الدفيئة"
+   },
+   "zh": {
+    "a": "GHG",
+    "t": "温室气体"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "GWP",
+   "en_term": "global warming potential",
+   "fr": {
+    "a": "PRP",
+    "t": "potentiel de réchauffement planétaire"
+   },
+   "es": {
+    "a": "PCA",
+    "t": "potencial de calentamiento atmosférico"
+   },
+   "ru": {
+    "a": "ПГП",
+    "t": "потенциал глобального потепления"
+   },
+   "ar": {
+    "a": "GWP",
+    "t": "إمكانية الاحترار العالمي"
+   },
+   "zh": {
+    "a": "GWP",
+    "t": "全球变暖潜能值"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "IAE",
+   "en_term": "international accredited entity",
+   "fr": {
+    "a": "EAI",
+    "t": "entité accréditée au niveau international"
+   },
+   "es": {
+    "a": "EAI",
+    "t": "entidad acreditada internacional"
+   },
+   "ru": {
+    "a": "МАО",
+    "t": "международная аккредитованная организация"
+   },
+   "ar": {
+    "a": "IAE",
+    "t": "الكيان الدولي المعتمد"
+   },
+   "zh": {
+    "a": "IAE",
+    "t": "国际认证实体"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "ICS",
+   "en_term": "investment criteria scorecard",
+   "fr": {
+    "a": "TCI",
+    "t": "tableau de bord des critères d’investissement"
+   },
+   "es": {
+    "a": "ICS",
+    "t": "puntuación en cuanto a los criterios de inversión"
+   },
+   "ru": {
+    "a": "ОЛИК",
+    "t": "оценочный лист инвестиционных критериев"
+   },
+   "ar": {
+    "a": "ICS",
+    "t": "سجل نتائج معايير الاستثمار"
+   },
+   "zh": {
+    "a": "ICS",
+    "t": "投资标准记分卡"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "IDP",
+   "en_term": "Information Disclosure Policy",
+   "fr": {
+    "a": "PDI",
+    "t": "Politique de divulgation d’informations"
+   },
+   "es": {
+    "a": "PDI",
+    "t": "Política de Divulgación de Información"
+   },
+   "ru": {
+    "a": "ПРИ",
+    "t": "Политика разглашения информации"
+   },
+   "ar": {
+    "a": "IDP",
+    "t": "سياسة الكشف عن المعلومات"
+   },
+   "zh": {
+    "a": "IDP",
+    "t": "信息披露政策"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "IE",
+   "en_term": "implementing entity",
+   "fr": {
+    "a": "EMO",
+    "t": "entité de mise en œuvre"
+   },
+   "es": {
+    "a": "EI",
+    "t": "entidad implementadora"
+   },
+   "ru": {
+    "a": "ОО",
+    "t": "осуществляющая организация"
+   },
+   "ar": {
+    "a": "IE",
+    "t": "الكيان المنفذ"
+   },
+   "zh": {
+    "a": "IE",
+    "t": "实施实体"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "IEU",
+   "en_term": "Independent Evaluation Unit",
+   "fr": {
+    "a": "UEI",
+    "t": "unité d’évaluation indépendante"
+   },
+   "es": {
+    "a": "UEI",
+    "t": "Unidad de Evaluación Independiente"
+   },
+   "ru": {
+    "a": "НПОЭ",
+    "t": "Независимое подразделение по оценке эффективности"
+   },
+   "ar": {
+    "a": "IEU",
+    "t": "وحدة التقييم المستقلة"
+   },
+   "zh": {
+    "a": "IEU",
+    "t": "独立评价股"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "IIU",
+   "en_term": "Independent Integrity Unit",
+   "fr": {
+    "a": "UII",
+    "t": "unité d’intégrité indépendante"
+   },
+   "es": {
+    "a": "UII",
+    "t": "Unidad de Integridad Independiente"
+   },
+   "ru": {
+    "a": "НППЭ",
+    "t": "Независимое подразделение по профессиональной этике"
+   },
+   "ar": {
+    "a": "IIU",
+    "t": "الوحدة المستقلة المعنية بالنزاهة"
+   },
+   "zh": {
+    "a": "IIU",
+    "t": "独立廉政股"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "IPCC",
+   "en_term": "Intergovernmental Panel on Climate Change",
+   "fr": {
+    "a": "GIEC",
+    "t": "Groupe intergouvernemental d’experts sur l’évolution du climat"
+   },
+   "es": {
+    "a": "IPCC",
+    "t": "Grupo Intergubernamental de Expertos sobre el Cambio Climático"
+   },
+   "ru": {
+    "a": "МГЭИК",
+    "t": "Межправительственная группа экспертов по изменению климата"
+   },
+   "ar": {
+    "a": "IPCC",
+    "t": "الفريق الحكومي الدولي المعني بتغير المناخ"
+   },
+   "zh": {
+    "a": "IPCC",
+    "t": "政府间气候变化专门委员会"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "IPMS",
+   "en_term": "Integrated Portfolio Management System",
+   "fr": {
+    "a": "SIGP",
+    "t": "Système intégré de gestion de portefeuille"
+   },
+   "es": {
+    "a": "SIGC",
+    "t": "sistema integrado de gestión de cartera"
+   },
+   "ru": {
+    "a": "КСУП",
+    "t": "Комплексная система управления портфелем"
+   },
+   "ar": {
+    "a": "IPMS",
+    "t": "النظام المتكامل لإدارة الحافظة"
+   },
+   "zh": {
+    "a": "IPMS",
+    "t": "综合投资组合管理系统"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "IPP",
+   "en_term": "Indigenous peoples plan",
+   "fr": {
+    "a": "PPA",
+    "t": "plan en faveur des peuples autochtones"
+   },
+   "es": {
+    "a": "PPI",
+    "t": "Plan para Pueblos Indígenas"
+   },
+   "ru": {
+    "a": "ПЗКН",
+    "t": "План действий по защите прав коренных народов"
+   },
+   "ar": {
+    "a": "IPP",
+    "t": "خطة الشعوب الأصلية"
+   },
+   "zh": {
+    "a": "IPP",
+    "t": "土著人民计划"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "IPPF",
+   "en_term": "Indigenous peoples planning framework",
+   "fr": {
+    "a": "CPPA",
+    "t": "cadre de planification en faveur des populations autochtones"
+   },
+   "es": {
+    "a": "MPPI",
+    "t": "Marco de Planificación para Pueblos Indígenas"
+   },
+   "ru": {
+    "a": "ППЗКН",
+    "t": "Принципы планирования действий по защите прав коренных народов"
+   },
+   "ar": {
+    "a": "IPPF",
+    "t": "إطار التخطيط للشعوب الأصلية"
+   },
+   "zh": {
+    "a": "IPPF",
+    "t": "土著人民规划框架"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "IPT",
+   "en_term": "interdivisional project team",
+   "fr": {
+    "a": "EPI",
+    "t": "équipe de projet inter-services"
+   },
+   "es": {
+    "a": "EIP",
+    "t": "equipo interdivisional del proyecto"
+   },
+   "ru": {
+    "a": "ВПГ",
+    "t": "внутриорганизационная проектная группа"
+   },
+   "ar": {
+    "a": "IPT",
+    "t": "الفريق المشترك بين الشعب المعني بالمشروع"
+   },
+   "zh": {
+    "a": "IPT",
+    "t": "部门间项目团队"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "IPTR",
+   "en_term": "interdivisional project team review",
+   "fr": {
+    "a": "EEPI",
+    "t": "examen par l’équipe de projet inter-services"
+   },
+   "es": {
+    "a": "EEIP",
+    "t": "equipo examinador interdivisional del proyecto"
+   },
+   "ru": {
+    "a": "ПВПГ",
+    "t": "проверка внутриорганизационной проектной группой"
+   },
+   "ar": {
+    "a": "IPTR",
+    "t": "استعراض فريق المشاريع المشترك بين الشعب"
+   },
+   "zh": {
+    "a": "IPTR",
+    "t": "部门间项目团队审查"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "IRM",
+   "en_term": "Independent Redress Mechanism",
+   "fr": {
+    "a": "IRM",
+    "t": "Mécanisme indépendant de recours"
+   },
+   "es": {
+    "a": "MRI",
+    "t": "Mecanismo de Reparación Independiente"
+   },
+   "ru": {
+    "a": "НМРЖ",
+    "t": "Независимый механизм рассмотрения жалоб"
+   },
+   "ar": {
+    "a": "IRM",
+    "t": "آلية الانتصاف المستقلة"
+   },
+   "zh": {
+    "a": "IRM",
+    "t": "独立补救机制"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "KYC",
+   "en_term": "know your customer",
+   "fr": {
+    "a": "KYC",
+    "t": "know your customer (connaître son client)"
+   },
+   "es": {
+    "a": "CC",
+    "t": "conocimiento de los clientes"
+   },
+   "ru": {
+    "a": "ЗСК",
+    "t": "принцип «знай своего клиента»"
+   },
+   "ar": {
+    "a": "KYC",
+    "t": "إعرف عميلك"
+   },
+   "zh": {
+    "a": "KYC",
+    "t": "了解你的客户（客户背景掌握）"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "MAF",
+   "en_term": "monitoring and accountability framework",
+   "fr": {
+    "a": "MAF",
+    "t": "cadre de suivi et de redevabilité"
+   },
+   "es": {
+    "a": "MVRC",
+    "t": "marco de vigilancia y rendición de cuentas"
+   },
+   "ru": {
+    "a": "ММП",
+    "t": "механизм мониторинга и подотчетности"
+   },
+   "ar": {
+    "a": "MAF",
+    "t": "إطار الرصد والمساءلة"
+   },
+   "zh": {
+    "a": "MAF",
+    "t": "监测和问责框架"
+   },
+   "source": "GCF Programming Manual",
+   "note": "Canonical: Programming Manual (confirmed 2026-06-05). Variant in Accreditation Framework B.42 (FR CSR; ES MSRC/supervisión; RU РМП/рамки; AR المراقبة) recorded for awareness, not adopted."
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "ML/FT",
+   "en_term": "money-laundering/financing of terrorism",
+   "fr": {
+    "a": "BA/FT",
+    "t": "blanchiment d’argent/financement du terrorisme"
+   },
+   "es": {
+    "a": "LD/FT",
+    "t": "lavado de dinero/financiación del terrorismo"
+   },
+   "ru": {
+    "a": "ОД/ФТ",
+    "t": "отмывание денег / финансирование терроризма"
+   },
+   "ar": {
+    "a": "ML/FT",
+    "t": "غسل الأموال/تمويل الإرهاب"
+   },
+   "zh": {
+    "a": "ML/FT",
+    "t": "洗钱/资助恐怖主义"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "MRV",
+   "en_term": "measurement, reporting and verification",
+   "fr": {
+    "a": "MRV",
+    "t": "mesure, rapport et vérification"
+   },
+   "es": {
+    "a": "MNV",
+    "t": "medición, notificación y verificación"
+   },
+   "ru": {
+    "a": "ИОП",
+    "t": "измерение, отчетность и проверка"
+   },
+   "ar": {
+    "a": "MRV",
+    "t": "القياس والإبلاغ والتحقق"
+   },
+   "zh": {
+    "a": "MRV",
+    "t": "测量、报告和验证"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "MSMEs",
+   "en_term": "micro, small and medium-sized enterprises",
+   "fr": {
+    "a": "TPE-PME",
+    "t": "très petites entreprises, petites et moyennes entreprises"
+   },
+   "es": {
+    "a": "MIPYMES",
+    "t": "microempresas y pequeñas y medianas empresas"
+   },
+   "ru": {
+    "a": "ММСП",
+    "t": "микро-, малые и средние предприятия"
+   },
+   "ar": {
+    "a": "MSMEs",
+    "t": "المؤسسات المتناهية الصغر والصغيرة والمتوسطة"
+   },
+   "zh": {
+    "a": "MSMEs",
+    "t": "微型、小型和中型企业"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "N/A",
+   "en_term": "not applicable",
+   "fr": {
+    "a": "N/A",
+    "t": "non applicable"
+   },
+   "es": {
+    "a": "N/A",
+    "t": "no es aplicable"
+   },
+   "ru": {
+    "a": "Н/П",
+    "t": "неприменимо"
+   },
+   "ar": {
+    "a": "N/A",
+    "t": "لا ينطبق"
+   },
+   "zh": {
+    "a": "N/A",
+    "t": "不适用"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "NAMA",
+   "en_term": "nationally appropriate mitigation action",
+   "fr": {
+    "a": "MAAN",
+    "t": "mesures d’atténuation appropriée au niveau national"
+   },
+   "es": {
+    "a": "MMAP",
+    "t": "medidas de mitigación apropiadas para cada país"
+   },
+   "ru": {
+    "a": "МПНП",
+    "t": "меры по предотвращению изменения климата с учетом национальных приоритетов"
+   },
+   "ar": {
+    "a": "NAMA",
+    "t": "إجراءات التخفيف الملائمة وطنياً"
+   },
+   "zh": {
+    "a": "NAMA",
+    "t": "适合本国的缓解行动"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "NAP",
+   "en_term": "national adaptation plan",
+   "fr": {
+    "a": "PNA",
+    "t": "plan national d’adaptation"
+   },
+   "es": {
+    "a": "PNAD",
+    "t": "Plan Nacional de Adaptación"
+   },
+   "ru": {
+    "a": "НПА",
+    "t": "национальный план адаптации"
+   },
+   "ar": {
+    "a": "NAP",
+    "t": "خطة التكيف الوطنية"
+   },
+   "zh": {
+    "a": "NAP",
+    "t": "国家适应计划"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "NDA",
+   "en_term": "national designated authority",
+   "fr": {
+    "a": "AND",
+    "t": "autorité nationale désignée"
+   },
+   "es": {
+    "a": "AND",
+    "t": "autoridad nacional designada"
+   },
+   "ru": {
+    "a": "НУО",
+    "t": "национальный уполномоченный орган"
+   },
+   "ar": {
+    "a": "NDA",
+    "t": "السلطة الوطنية المعتمدة"
+   },
+   "zh": {
+    "a": "NDA",
+    "t": "国家指定机构"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "NDC",
+   "en_term": "nationally determined contribution",
+   "fr": {
+    "a": "CDN",
+    "t": "contribution déterminée au niveau national"
+   },
+   "es": {
+    "a": "CDN",
+    "t": "contribución determinada a nivel nacional"
+   },
+   "ru": {
+    "a": "ОНУВ",
+    "t": "определяемый на национальном уровне вклад"
+   },
+   "ar": {
+    "a": "NDC",
+    "t": "المساهمات المحددة وطنياً"
+   },
+   "zh": {
+    "a": "NDC",
+    "t": "国家自主贡献"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "NOL",
+   "en_term": "no-objection letter",
+   "fr": {
+    "a": "LNO",
+    "t": "lettre de non-objection"
+   },
+   "es": {
+    "a": "CNO",
+    "t": "carta de no objeción"
+   },
+   "ru": {
+    "a": "ПОВ",
+    "t": "письмо об отсутствии возражений"
+   },
+   "ar": {
+    "a": "NOL",
+    "t": "رسالة عدم الاعتراض"
+   },
+   "zh": {
+    "a": "NOL",
+    "t": "无异议函"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "OECD",
+   "en_term": "Organization for Economic Co-operation and Development",
+   "fr": {
+    "a": "OCDE",
+    "t": "Organisation de coopération et de développement économiques"
+   },
+   "es": {
+    "a": "OCDE",
+    "t": "Organización para la Cooperación y el Desarrollo Económicos"
+   },
+   "ru": {
+    "a": "ОЭСР",
+    "t": "Организация экономического сотрудничества и развития"
+   },
+   "ar": {
+    "a": "OECD",
+    "t": "منظمة التعاون والتنمية في الميدان الاقتصادي"
+   },
+   "zh": {
+    "a": "OECD",
+    "t": "经济合作与发展组织"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "OED",
+   "en_term": "Office of the Executive Director",
+   "fr": {
+    "a": "OED",
+    "t": "Bureau du Directeur exécutif"
+   },
+   "es": {
+    "a": "ODE",
+    "t": "Oficina del Director Ejecutivo"
+   },
+   "ru": {
+    "a": "КДИ",
+    "t": "Канцелярия Директора-исполнителя"
+   },
+   "ar": {
+    "a": "OED",
+    "t": "مكتب المدير التنفيذي"
+   },
+   "zh": {
+    "a": "OED",
+    "t": "执行主任办公室"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "OGA",
+   "en_term": "Office of Governance Affairs",
+   "fr": {
+    "a": "OGA",
+    "t": "Bureau des affaires de gouvernance"
+   },
+   "es": {
+    "a": "OAG",
+    "t": "Oficina de Asuntos de Gobernanza"
+   },
+   "ru": {
+    "a": "БОР",
+    "t": "Бюро по вопросам общего руководства"
+   },
+   "ar": {
+    "a": "OGA",
+    "t": "مكتب شؤون الحوكمة"
+   },
+   "zh": {
+    "a": "OGA",
+    "t": "治理事务办公室"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "OGC",
+   "en_term": "Office of the General Counsel",
+   "fr": {
+    "a": "OGC",
+    "t": "Bureau de l’avocat général"
+   },
+   "es": {
+    "a": "PG",
+    "t": "Procuraduría General"
+   },
+   "ru": {
+    "a": "КГЮ",
+    "t": "Канцелярия Главного юрисконсульта"
+   },
+   "ar": {
+    "a": "OGC",
+    "t": "مكتب المستشار القانوني"
+   },
+   "zh": {
+    "a": "OGC",
+    "t": "总法律顾问办公室"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "O&M",
+   "en_term": "operation and maintenance",
+   "fr": {
+    "a": "O&M",
+    "t": "fonctionnement et maintenance"
+   },
+   "es": {
+    "a": "O+M",
+    "t": "operación y mantenimiento"
+   },
+   "ru": {
+    "a": "ЭиТО",
+    "t": "эксплуатация и техническое обслуживание"
+   },
+   "ar": {
+    "a": "O&M",
+    "t": "التشغيل والصيانة"
+   },
+   "zh": {
+    "a": "O&M",
+    "t": "运营和维护"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "OPM",
+   "en_term": "Office of Portfolio Management",
+   "fr": {
+    "a": "OPM",
+    "t": "Bureau de la gestion de portefeuille"
+   },
+   "es": {
+    "a": "OGC",
+    "t": "Oficina de Gestión de Cartera"
+   },
+   "ru": {
+    "a": "БУП",
+    "t": "Бюро по вопросам управления портфелем"
+   },
+   "ar": {
+    "a": "OPM",
+    "t": "مكتب إدارة الحافظة"
+   },
+   "zh": {
+    "a": "OPM",
+    "t": "投资组合管理办公室"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "ORMC",
+   "en_term": "Office of Risk Management and Compliance",
+   "fr": {
+    "a": "ORMC",
+    "t": "Bureau de la gestion des risques et de la conformité"
+   },
+   "es": {
+    "a": "OGRC",
+    "t": "Oficina de Gestión de Riesgos y Cumplimiento"
+   },
+   "ru": {
+    "a": "БУРиСНТ",
+    "t": "Бюро по вопросам управления рисками и соблюдения нормативных требований"
+   },
+   "ar": {
+    "a": "ORMC",
+    "t": "مكتب إدارة المخاطر والامتثال"
+   },
+   "zh": {
+    "a": "ORMC",
+    "t": "风险管理和合规办公室"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "OST",
+   "en_term": "origination and structuring team",
+   "fr": {
+    "a": "OST",
+    "t": "équipe de démarrage et de structuration"
+   },
+   "es": {
+    "a": "ECE",
+    "t": "equipo de creación y estructuración"
+   },
+   "ru": {
+    "a": "ГИС",
+    "t": "группа по инициированию и структурированию"
+   },
+   "ar": {
+    "a": "OST",
+    "t": "فريق التأسيس والهيكلة"
+   },
+   "zh": {
+    "a": "OST",
+    "t": "发起和组织团队"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "PAP",
+   "en_term": "proposal approval process",
+   "fr": {
+    "a": "PAP",
+    "t": "processus d’approbation de la proposition"
+   },
+   "es": {
+    "a": "PAP",
+    "t": "proceso de aprobación de propuestas"
+   },
+   "ru": {
+    "a": "ПУП",
+    "t": "процесс утверждения предложений"
+   },
+   "ar": {
+    "a": "PAP",
+    "t": "عملية الموافقة على المقترح"
+   },
+   "zh": {
+    "a": "PAP",
+    "t": "提案批准流程"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "PMF",
+   "en_term": "performance measurement framework",
+   "fr": {
+    "a": "CMP",
+    "t": "cadre de mesure de la performance"
+   },
+   "es": {
+    "a": "MMD",
+    "t": "marco de medición del desempeño"
+   },
+   "ru": {
+    "a": "МОР",
+    "t": "механизм оценки результатов"
+   },
+   "ar": {
+    "a": "PMF",
+    "t": "إطار قياس الأداء"
+   },
+   "zh": {
+    "a": "PMF",
+    "t": "绩效衡量框架"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "PMF-A",
+   "en_term": "adaptation performance measurement framework",
+   "fr": {
+    "a": "CMP-A",
+    "t": "cadre de mesure de la performance - adaptation"
+   },
+   "es": {
+    "a": "MMD-A",
+    "t": "marco de medición del desempeño en materia de adaptación"
+   },
+   "ru": {
+    "a": "МОР-А",
+    "t": "механизм оценки результатов адаптации"
+   },
+   "ar": {
+    "a": "PMF-A",
+    "t": "إطار قياس أداء التكيف"
+   },
+   "zh": {
+    "a": "PMF-A",
+    "t": "适应绩效衡量框架"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "PMF-M",
+   "en_term": "mitigation performance measurement framework",
+   "fr": {
+    "a": "CMP-M",
+    "t": "cadre de mesure de la performance - atténuation"
+   },
+   "es": {
+    "a": "MMD-M",
+    "t": "marco de medición del desempeño en materia de mitigación"
+   },
+   "ru": {
+    "a": "МОР-СП",
+    "t": "механизм оценки результатов смягчения последствий"
+   },
+   "ar": {
+    "a": "PMF-M",
+    "t": "إطار قياس أداء التخفيف"
+   },
+   "zh": {
+    "a": "PMF-M",
+    "t": "缓解绩效衡量框架"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "PP",
+   "en_term": "prohibited practice",
+   "fr": {
+    "a": "PI",
+    "t": "pratiques interdites"
+   },
+   "es": {
+    "a": "PP",
+    "t": "práctica prohibida"
+   },
+   "ru": {
+    "a": "ЗВД",
+    "t": "запрещенный вид деятельности"
+   },
+   "ar": {
+    "a": "PP",
+    "t": "الممارسات المحظورة"
+   },
+   "zh": {
+    "a": "PP",
+    "t": "禁止做法"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "PPF",
+   "en_term": "Project Preparation Facility",
+   "fr": {
+    "a": "MPP",
+    "t": "Mécanisme de préparation de projet"
+   },
+   "es": {
+    "a": "SPP",
+    "t": "Servicio de Preparación de Proyectos"
+   },
+   "ru": {
+    "a": "КППП",
+    "t": "Кредитная программа на цели подготовки проектов"
+   },
+   "ar": {
+    "a": "PPF",
+    "t": "مرفق إعداد المشاريع"
+   },
+   "zh": {
+    "a": "PPF",
+    "t": "项目准备设施"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "PRC",
+   "en_term": "Policy on Restructuring and Cancellation",
+   "fr": {
+    "a": "PRA",
+    "t": "Politique de restructuration et d’annulation"
+   },
+   "es": {
+    "a": "PRC",
+    "t": "Política de Reestructuración y Cancelación"
+   },
+   "ru": {
+    "a": "ПРАУ",
+    "t": "Политика в отношении реструктуризации и аннулирования условий"
+   },
+   "ar": {
+    "a": "PRC",
+    "t": "سياسة إعادة الهيكلة والإلغاء"
+   },
+   "zh": {
+    "a": "PRC",
+    "t": "重组和取消政策"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "PSF",
+   "en_term": "Private Sector Facility",
+   "fr": {
+    "a": "PSF",
+    "t": "Mécanisme du secteur privé"
+   },
+   "es": {
+    "a": "SSP",
+    "t": "Servicio para el Sector Privado"
+   },
+   "ru": {
+    "a": "КПЧС",
+    "t": "Кредитная программа для частного сектора"
+   },
+   "ar": {
+    "a": "PSF",
+    "t": "مرفق القطاع الخاص"
+   },
+   "zh": {
+    "a": "PSF",
+    "t": "私营部门设施"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "PSR",
+   "en_term": "project success rating",
+   "fr": {
+    "a": "PSR",
+    "t": "notation de la réussite du projet"
+   },
+   "es": {
+    "a": "MEP",
+    "t": "medición del éxito del proyecto"
+   },
+   "ru": {
+    "a": "РУП",
+    "t": "рейтинг успешности проектов"
+   },
+   "ar": {
+    "a": "PSR",
+    "t": "تقييم نجاح المشاريع"
+   },
+   "zh": {
+    "a": "PSR",
+    "t": "项目成功评级"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "RAP",
+   "en_term": "resettlement action plan",
+   "fr": {
+    "a": "PAR",
+    "t": "plan d’action de réinstallation"
+   },
+   "es": {
+    "a": "PR",
+    "t": "Plan de Reasentamiento"
+   },
+   "ru": {
+    "a": "ПДП",
+    "t": "план действий по переселению"
+   },
+   "ar": {
+    "a": "RAP",
+    "t": "خطة عمل إعادة التسوية"
+   },
+   "zh": {
+    "a": "RAP",
+    "t": "重新安置行动计划"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "RFP",
+   "en_term": "request for proposal",
+   "fr": {
+    "a": "RFP",
+    "t": "demande de proposition"
+   },
+   "es": {
+    "a": "SP",
+    "t": "solicitud de propuestas"
+   },
+   "ru": {
+    "a": "ЗПП",
+    "t": "запрос предложения"
+   },
+   "ar": {
+    "a": "RFP",
+    "t": "طلب مقترح"
+   },
+   "zh": {
+    "a": "RFP",
+    "t": "提案请求"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "RMF",
+   "en_term": "results management framework",
+   "fr": {
+    "a": "CGR",
+    "t": "cadre de gestion des résultats"
+   },
+   "es": {
+    "a": "MGR",
+    "t": "marco de gestión de resultados"
+   },
+   "ru": {
+    "a": "МУР",
+    "t": "механизм управления с ориентацией на результаты"
+   },
+   "ar": {
+    "a": "RMF",
+    "t": "إطار إدارة النتائج"
+   },
+   "zh": {
+    "a": "RMF",
+    "t": "成果管理框架"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "RPF",
+   "en_term": "resettlement policy framework",
+   "fr": {
+    "a": "CPR",
+    "t": "cadre de la politique de réinstallation"
+   },
+   "es": {
+    "a": "MPR",
+    "t": "marco de políticas de reasentamiento"
+   },
+   "ru": {
+    "a": "РКП",
+    "t": "рамочная концепция в отношении переселения"
+   },
+   "ar": {
+    "a": "RPF",
+    "t": "إطار سياسة إعادة التسوية"
+   },
+   "zh": {
+    "a": "RPF",
+    "t": "重新安置政策框架"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "SDR",
+   "en_term": "social discount rate",
+   "fr": {
+    "a": "TAS",
+    "t": "taux d’actualisation social"
+   },
+   "es": {
+    "a": "TSD",
+    "t": "tasa social de descuento"
+   },
+   "ru": {
+    "a": "ССД",
+    "t": "социальная ставка дисконтирования"
+   },
+   "ar": {
+    "a": "SDR",
+    "t": "معدل الخصم الاجتماعي"
+   },
+   "zh": {
+    "a": "SDR",
+    "t": "社会贴现率"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "TAP",
+   "en_term": "Technical Advisory Panel",
+   "fr": {
+    "a": "CCT",
+    "t": "Comité consultatif technique"
+   },
+   "es": {
+    "a": "GCT",
+    "t": "Grupo Consultivo Técnico"
+   },
+   "ru": {
+    "a": "ТКГ",
+    "t": "Техническая консультативная группа"
+   },
+   "ar": {
+    "a": "TAP",
+    "t": "الفريق الاستشاري التقني"
+   },
+   "zh": {
+    "a": "TAP",
+    "t": "技术咨询小组"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "tCO2eq",
+   "en_term": "tonnes of carbon dioxide equivalent",
+   "fr": {
+    "a": "teqCO2",
+    "t": "tonne d’équivalent dioxyde de carbone"
+   },
+   "es": {
+    "a": "tCO2eq",
+    "t": "tonelada de dióxido de carbono equivalente"
+   },
+   "ru": {
+    "a": "т СО2э",
+    "t": "тонн эквивалента двуокиси углерода"
+   },
+   "ar": {
+    "a": "tCO2eq",
+    "t": "طن من مكافئ أكسيد الكربون"
+   },
+   "zh": {
+    "a": "tCO2eq",
+    "t": "吨二氧化碳当量"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "TOR",
+   "en_term": "terms of reference",
+   "fr": {
+    "a": "TdR",
+    "t": "termes de référence"
+   },
+   "es": {
+    "a": "TR",
+    "t": "términos de referencia"
+   },
+   "ru": {
+    "a": "ТЗ",
+    "t": "техническое задание"
+   },
+   "ar": {
+    "a": "TOR",
+    "t": "الأطر المرجعية"
+   },
+   "zh": {
+    "a": "TOR",
+    "t": "职权范围"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "UNFCCC",
+   "en_term": "United Nations Framework Convention on Climate Change",
+   "fr": {
+    "a": "CCNUCC",
+    "t": "Convention-cadre des Nations Unies sur les changements climatiques"
+   },
+   "es": {
+    "a": "CMNUCC",
+    "t": "Convención Marco de las Naciones Unidas sobre el Cambio Climático"
+   },
+   "ru": {
+    "a": "РКИК ООН",
+    "t": "Рамочная конвенция Организации Объединенных Наций об изменении климата"
+   },
+   "ar": {
+    "a": "UNFCCC",
+    "t": "اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ"
+   },
+   "zh": {
+    "a": "UNFCCC",
+    "t": "联合国气候变化框架公约"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "WACC",
+   "en_term": "weighted average cost of capital",
+   "fr": {
+    "a": "CMPC",
+    "t": "coût moyen pondéré du capital"
+   },
+   "es": {
+    "a": "CMPC",
+    "t": "costo medio ponderado del capital"
+   },
+   "ru": {
+    "a": "СВСК",
+    "t": "средневзвешенная стоимость капитала"
+   },
+   "ar": {
+    "a": "WACC",
+    "t": "متوسط التكلفة المرجحة لرأس المال"
+   },
+   "zh": {
+    "a": "WACC",
+    "t": "加权平均资本成本"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Accreditation",
+   "fr": {
+    "a": "",
+    "t": "Accréditation"
+   },
+   "es": {
+    "a": "",
+    "t": "Acreditación"
+   },
+   "ru": {
+    "a": "",
+    "t": "Аккредитация"
+   },
+   "ar": {
+    "a": "",
+    "t": "الاعتماد"
+   },
+   "zh": {
+    "a": "",
+    "t": "认证"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "AMA",
+   "en_term": "Accreditation Master Agreement",
+   "fr": {
+    "a": "",
+    "t": "Accord-cadre d’accréditation"
+   },
+   "es": {
+    "a": "",
+    "t": "Acuerdo marco de acreditación"
+   },
+   "ru": {
+    "a": "",
+    "t": "Генеральное соглашение об аккредитации"
+   },
+   "ar": {
+    "a": "",
+    "t": "الاتفاق الإطاري للاعتماد"
+   },
+   "zh": {
+    "a": "",
+    "t": "认证主协议"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "AP",
+   "en_term": "Accreditation Panel",
+   "fr": {
+    "a": "",
+    "t": "Panel d’accréditation"
+   },
+   "es": {
+    "a": "",
+    "t": "Grupo de Acreditación"
+   },
+   "ru": {
+    "a": "",
+    "t": "Группа по аккредитации"
+   },
+   "ar": {
+    "a": "",
+    "t": "فريق الاعتماد"
+   },
+   "zh": {
+    "a": "",
+    "t": "认证小组"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Accreditation standards",
+   "fr": {
+    "a": "",
+    "t": "Normes d’accréditation"
+   },
+   "es": {
+    "a": "",
+    "t": "Normas de acreditación"
+   },
+   "ru": {
+    "a": "",
+    "t": "Стандарты аккредитации"
+   },
+   "ar": {
+    "a": "",
+    "t": "معايير الاعتماد"
+   },
+   "zh": {
+    "a": "",
+    "t": "认证标准"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "AE",
+   "en_term": "Accredited entity",
+   "fr": {
+    "a": "",
+    "t": "Entité accréditée"
+   },
+   "es": {
+    "a": "",
+    "t": "Entidad acreditada"
+   },
+   "ru": {
+    "a": "",
+    "t": "Аккредитованная организация"
+   },
+   "ar": {
+    "a": "",
+    "t": "الكيان المعتمد"
+   },
+   "zh": {
+    "a": "",
+    "t": "认证实体"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Board",
+   "fr": {
+    "a": "",
+    "t": "Conseil"
+   },
+   "es": {
+    "a": "",
+    "t": "Junta"
+   },
+   "ru": {
+    "a": "",
+    "t": "Совет"
+   },
+   "ar": {
+    "a": "",
+    "t": "المجلس"
+   },
+   "zh": {
+    "a": "",
+    "t": "理事会"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Climate change",
+   "fr": {
+    "a": "",
+    "t": "Changement climatique"
+   },
+   "es": {
+    "a": "",
+    "t": "Cambio climático"
+   },
+   "ru": {
+    "a": "",
+    "t": "Изменение климата"
+   },
+   "ar": {
+    "a": "",
+    "t": "تغير المناخ"
+   },
+   "zh": {
+    "a": "",
+    "t": "气候变化"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "CIC",
+   "en_term": "Climate Investment Committee",
+   "fr": {
+    "a": "",
+    "t": "Comité d’investissement pour le climat"
+   },
+   "es": {
+    "a": "",
+    "t": "Comité de Inversión Climática"
+   },
+   "ru": {
+    "a": "",
+    "t": "Климатический инвестиционный комитет"
+   },
+   "ar": {
+    "a": "",
+    "t": "لجنة الاستثمار في مجال المناخ"
+   },
+   "zh": {
+    "a": "",
+    "t": "气候投资委员会"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Co-financing",
+   "fr": {
+    "a": "",
+    "t": "Cofinancement"
+   },
+   "es": {
+    "a": "",
+    "t": "Cofinanciación"
+   },
+   "ru": {
+    "a": "",
+    "t": "Совместное финансирование"
+   },
+   "ar": {
+    "a": "",
+    "t": "التمويل المشترك"
+   },
+   "zh": {
+    "a": "",
+    "t": "共同资助"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Concept note",
+   "fr": {
+    "a": "",
+    "t": "Note conceptuelle"
+   },
+   "es": {
+    "a": "",
+    "t": "Nota conceptual"
+   },
+   "ru": {
+    "a": "",
+    "t": "Концептуальная записка"
+   },
+   "ar": {
+    "a": "",
+    "t": "المذكرة المفاهيمية"
+   },
+   "zh": {
+    "a": "",
+    "t": "概念说明"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Country programme",
+   "fr": {
+    "a": "",
+    "t": "Programme de pays"
+   },
+   "es": {
+    "a": "",
+    "t": "Programa del país"
+   },
+   "ru": {
+    "a": "",
+    "t": "Страновая программа"
+   },
+   "ar": {
+    "a": "",
+    "t": "البرنامج القطري"
+   },
+   "zh": {
+    "a": "",
+    "t": "国家方案"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "DAE",
+   "en_term": "Direct access entity",
+   "fr": {
+    "a": "",
+    "t": "Entité d’accès direct"
+   },
+   "es": {
+    "a": "",
+    "t": "Entidad de acceso directo"
+   },
+   "ru": {
+    "a": "",
+    "t": "Организация c прямым доступом"
+   },
+   "ar": {
+    "a": "",
+    "t": "كيان الوصول المباشر"
+   },
+   "zh": {
+    "a": "",
+    "t": "直接准入实体"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Environmental and social policy",
+   "fr": {
+    "a": "",
+    "t": "Politique environnementale et sociale"
+   },
+   "es": {
+    "a": "",
+    "t": "Política Ambiental y Social"
+   },
+   "ru": {
+    "a": "",
+    "t": "Экологическая и социальная политика"
+   },
+   "ar": {
+    "a": "",
+    "t": "السياسة البيئية والاجتماعية"
+   },
+   "zh": {
+    "a": "",
+    "t": "环境和社会政策"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "ESS",
+   "en_term": "Environmental and social safeguards standards",
+   "fr": {
+    "a": "",
+    "t": "Normes de sauvegarde environnementale et sociale"
+   },
+   "es": {
+    "a": "",
+    "t": "Normas de salvaguardas ambientales y sociales"
+   },
+   "ru": {
+    "a": "",
+    "t": "Стандарты экологических и социальных гарантий"
+   },
+   "ar": {
+    "a": "",
+    "t": "معايير الضمانات البيئية والاجتماعية"
+   },
+   "zh": {
+    "a": "",
+    "t": ""
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "EE",
+   "en_term": "Executing entity",
+   "fr": {
+    "a": "",
+    "t": "Entité d’exécution"
+   },
+   "es": {
+    "a": "",
+    "t": "Entidad de ejecución"
+   },
+   "ru": {
+    "a": "",
+    "t": "Организация-исполнитель"
+   },
+   "ar": {
+    "a": "",
+    "t": "الكيان المنفذ"
+   },
+   "zh": {
+    "a": "",
+    "t": "执行实体"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "FPS",
+   "en_term": "Fiduciary principles and standards",
+   "fr": {
+    "a": "",
+    "t": "Principes et normes fiduciaires"
+   },
+   "es": {
+    "a": "",
+    "t": "Normas y principios fiduciarios"
+   },
+   "ru": {
+    "a": "",
+    "t": "Фидуциарные принципы и стандарты"
+   },
+   "ar": {
+    "a": "",
+    "t": "المبادئ والمعايير الاستئمانية"
+   },
+   "zh": {
+    "a": "",
+    "t": "信托原则和标准"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Fiduciary standards",
+   "fr": {
+    "a": "",
+    "t": "Normes fiduciaires"
+   },
+   "es": {
+    "a": "",
+    "t": "Normas fiduciarias"
+   },
+   "ru": {
+    "a": "",
+    "t": "Фидуциарные стандарты"
+   },
+   "ar": {
+    "a": "",
+    "t": "المعايير الائتمانية"
+   },
+   "zh": {
+    "a": "",
+    "t": "信托标准"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Financial instruments",
+   "fr": {
+    "a": "",
+    "t": "Instruments financiers"
+   },
+   "es": {
+    "a": "",
+    "t": "Instrumentos financieros"
+   },
+   "ru": {
+    "a": "",
+    "t": "Финансовые инструменты"
+   },
+   "ar": {
+    "a": "",
+    "t": "الصكوك المالية"
+   },
+   "zh": {
+    "a": "",
+    "t": "金融工具"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "First-level due diligence",
+   "fr": {
+    "a": "",
+    "t": "Devoir de diligence de premier niveau"
+   },
+   "es": {
+    "a": "",
+    "t": "Debida diligencia de primer nivel"
+   },
+   "ru": {
+    "a": "",
+    "t": "Должная осмотрительность первого уровня"
+   },
+   "ar": {
+    "a": "",
+    "t": "العناية الواجبة من المستوى الأول"
+   },
+   "zh": {
+    "a": "",
+    "t": "一级尽职调查"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Funded activity",
+   "fr": {
+    "a": "",
+    "t": "Activité financée"
+   },
+   "es": {
+    "a": "",
+    "t": "Actividad financiada"
+   },
+   "ru": {
+    "a": "",
+    "t": "Финансируемая деятельность"
+   },
+   "ar": {
+    "a": "",
+    "t": "النشاط الممول"
+   },
+   "zh": {
+    "a": "",
+    "t": "资助活动"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "FAA",
+   "en_term": "Funded activity agreement",
+   "fr": {
+    "a": "",
+    "t": "Accord de financement d’activité"
+   },
+   "es": {
+    "a": "",
+    "t": "Acuerdo de actividades financiadas"
+   },
+   "ru": {
+    "a": "",
+    "t": "Соглашение о финансируемой деятельности"
+   },
+   "ar": {
+    "a": "",
+    "t": "اتفاق النشاط الممول"
+   },
+   "zh": {
+    "a": "",
+    "t": "资助活动协议"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Funding proposal",
+   "fr": {
+    "a": "",
+    "t": "Proposition de financement"
+   },
+   "es": {
+    "a": "",
+    "t": "Propuesta de financiación"
+   },
+   "ru": {
+    "a": "",
+    "t": "Предложение о финансировании"
+   },
+   "ar": {
+    "a": "",
+    "t": "مقترح التمويل"
+   },
+   "zh": {
+    "a": "",
+    "t": "资助提案"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "GCF proceeds",
+   "fr": {
+    "a": "",
+    "t": "Ressources du FVC"
+   },
+   "es": {
+    "a": "",
+    "t": "Fondos del FVC"
+   },
+   "ru": {
+    "a": "",
+    "t": "Поступления от GCF"
+   },
+   "ar": {
+    "a": "",
+    "t": "عائدات الصندوق الأخضر للمناخ"
+   },
+   "zh": {
+    "a": "",
+    "t": "GCF收益"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Gender Policy",
+   "fr": {
+    "a": "",
+    "t": "Politique en matière de genre"
+   },
+   "es": {
+    "a": "",
+    "t": "Política de Género"
+   },
+   "ru": {
+    "a": "",
+    "t": "Гендерная политика"
+   },
+   "ar": {
+    "a": "",
+    "t": "سياسة المساواة بين النوعين الاجتماعيين"
+   },
+   "zh": {
+    "a": "",
+    "t": "性别政策"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Governing Instrument",
+   "fr": {
+    "a": "",
+    "t": "Instrument constitutif du FVC"
+   },
+   "es": {
+    "a": "",
+    "t": "Instrumento rector del FVC"
+   },
+   "ru": {
+    "a": "",
+    "t": "Нормативный документ GCF"
+   },
+   "ar": {
+    "a": "",
+    "t": "صك الإدارة للصندوق الأخضر للمناخ"
+   },
+   "zh": {
+    "a": "",
+    "t": "GCF治理文书"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Indigenous Peoples Policy",
+   "fr": {
+    "a": "",
+    "t": "Politique relative aux peuples autochtones"
+   },
+   "es": {
+    "a": "",
+    "t": "Política sobre Pueblos Indígenas"
+   },
+   "ru": {
+    "a": "",
+    "t": "Политика в отношении коренных народов"
+   },
+   "ar": {
+    "a": "",
+    "t": "سياسة الشعوب الأصلية"
+   },
+   "zh": {
+    "a": "",
+    "t": "土著人民政策"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "IDP",
+   "en_term": "Information Disclosure Policy",
+   "fr": {
+    "a": "",
+    "t": "Politique de divulgation des informations"
+   },
+   "es": {
+    "a": "",
+    "t": "Política de Divulgación de Información"
+   },
+   "ru": {
+    "a": "",
+    "t": "Политика разлашения информации"
+   },
+   "ar": {
+    "a": "",
+    "t": "سياسة الكشف عن المعلومات"
+   },
+   "zh": {
+    "a": "",
+    "t": "信息披露政策"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "IPMS",
+   "en_term": "Integrated Portfolio Management System",
+   "fr": {
+    "a": "",
+    "t": "Système intégré de gestion des portefeuilles"
+   },
+   "es": {
+    "a": "",
+    "t": ""
+   },
+   "ru": {
+    "a": "",
+    "t": "Комплексная система управления портфелем"
+   },
+   "ar": {
+    "a": "",
+    "t": "نظام إدارة برامج المعلومات"
+   },
+   "zh": {
+    "a": "",
+    "t": "信息方案管理系统"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "IPT",
+   "en_term": "Interdivisional project team",
+   "fr": {
+    "a": "",
+    "t": "Équipe de projet inter-service"
+   },
+   "es": {
+    "a": "",
+    "t": "Equipo interdivisional del proyecto"
+   },
+   "ru": {
+    "a": "",
+    "t": "Внутриорганизационная проектная группа"
+   },
+   "ar": {
+    "a": "",
+    "t": "الفريق المشترك بين الشعب المعني بالمشروع"
+   },
+   "zh": {
+    "a": "",
+    "t": "部门间项目团队"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "IAE",
+   "en_term": "International accredited entity",
+   "fr": {
+    "a": "",
+    "t": "Entité d’accès international"
+   },
+   "es": {
+    "a": "",
+    "t": "Entidades acreditadas internacionales"
+   },
+   "ru": {
+    "a": "",
+    "t": "Международная аккредитованная организация"
+   },
+   "ar": {
+    "a": "",
+    "t": ""
+   },
+   "zh": {
+    "a": "",
+    "t": "国际准入实体"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Investment criteria",
+   "fr": {
+    "a": "",
+    "t": "Critères d’investissement"
+   },
+   "es": {
+    "a": "",
+    "t": "Criterios de inversión"
+   },
+   "ru": {
+    "a": "",
+    "t": "Инвестиционные критерии"
+   },
+   "ar": {
+    "a": "",
+    "t": "معايير الاستثمار"
+   },
+   "zh": {
+    "a": "",
+    "t": "投资标准"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "ICS",
+   "en_term": "Investment criteria scorecard",
+   "fr": {
+    "a": "",
+    "t": "Tableau de bord des critères d’investissement"
+   },
+   "es": {
+    "a": "",
+    "t": ""
+   },
+   "ru": {
+    "a": "",
+    "t": "Оценочный лист инвестиционных критериев"
+   },
+   "ar": {
+    "a": "",
+    "t": "سجل نتائج معايير الاستثمار"
+   },
+   "zh": {
+    "a": "",
+    "t": "投资标准记分卡"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "NOL",
+   "en_term": "No-objection letter",
+   "fr": {
+    "a": "",
+    "t": "Lettre de non-objection"
+   },
+   "es": {
+    "a": "",
+    "t": "Carta de no objeción"
+   },
+   "ru": {
+    "a": "",
+    "t": "Письмо об отсутствии возражений"
+   },
+   "ar": {
+    "a": "",
+    "t": "رسالة عدم الاعتراض"
+   },
+   "zh": {
+    "a": "",
+    "t": "无异议函"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "PRC",
+   "en_term": "Policy on Restructuring and Cancellation",
+   "fr": {
+    "a": "",
+    "t": "Politique de restructuration et d’annulation"
+   },
+   "es": {
+    "a": "",
+    "t": "Política de Reestructuración y Cancelación"
+   },
+   "ru": {
+    "a": "",
+    "t": "Политика в отношении реструктуризации и аннулирования условий"
+   },
+   "ar": {
+    "a": "",
+    "t": "سياسة إعادة الهيكلة والإلغاء"
+   },
+   "zh": {
+    "a": "",
+    "t": "重组和取消政策"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "PPF",
+   "en_term": "Project Preparation Facility",
+   "fr": {
+    "a": "",
+    "t": "Mécanisme de préparation de projet"
+   },
+   "es": {
+    "a": "",
+    "t": "Servicio de Preparación de Proyectos"
+   },
+   "ru": {
+    "a": "",
+    "t": "Кредитная программа на цели подготовки проектов"
+   },
+   "ar": {
+    "a": "",
+    "t": "مرفق إعداد المشاريع"
+   },
+   "zh": {
+    "a": "",
+    "t": "项目准备设施"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "RFP",
+   "en_term": "Request for proposal",
+   "fr": {
+    "a": "",
+    "t": "Demande de proposition"
+   },
+   "es": {
+    "a": "",
+    "t": "Solicitud de propuestas"
+   },
+   "ru": {
+    "a": "",
+    "t": ""
+   },
+   "ar": {
+    "a": "",
+    "t": "طلب مقترح"
+   },
+   "zh": {
+    "a": "",
+    "t": "提案请求"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Results areas",
+   "fr": {
+    "a": "",
+    "t": "Domaines de résultats"
+   },
+   "es": {
+    "a": "",
+    "t": "Esferas de resultados"
+   },
+   "ru": {
+    "a": "",
+    "t": "Тематические направления"
+   },
+   "ar": {
+    "a": "",
+    "t": "مجالات النتائج"
+   },
+   "zh": {
+    "a": "",
+    "t": "成果领域"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Rules of procedure",
+   "fr": {
+    "a": "",
+    "t": "Règles de procédure"
+   },
+   "es": {
+    "a": "",
+    "t": "Reglamento"
+   },
+   "ru": {
+    "a": "",
+    "t": "Регламент работы"
+   },
+   "ar": {
+    "a": "",
+    "t": "النظام الداخلي"
+   },
+   "zh": {
+    "a": "",
+    "t": "议事规则"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Second-level due diligence",
+   "fr": {
+    "a": "",
+    "t": "Devoir de diligence de deuxième niveau"
+   },
+   "es": {
+    "a": "",
+    "t": "Diligencia debida de segundo nivel"
+   },
+   "ru": {
+    "a": "",
+    "t": "Должная осмотрительность второго уровня"
+   },
+   "ar": {
+    "a": "",
+    "t": "العناية الواجبة من المستوى الثاني"
+   },
+   "zh": {
+    "a": "",
+    "t": "二级尽职调查"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Term sheet",
+   "fr": {
+    "a": "",
+    "t": "Fiche descriptive"
+   },
+   "es": {
+    "a": "",
+    "t": "Pliego de condiciones"
+   },
+   "ru": {
+    "a": "",
+    "t": "Перечень условий"
+   },
+   "ar": {
+    "a": "",
+    "t": "ورقة شروط العمل"
+   },
+   "zh": {
+    "a": "",
+    "t": "条款清单"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Trustee",
+   "fr": {
+    "a": "",
+    "t": "Agent fiduciaire"
+   },
+   "es": {
+    "a": "",
+    "t": "Administrador fiduciario"
+   },
+   "ru": {
+    "a": "",
+    "t": "Доверительный управляющий"
+   },
+   "ar": {
+    "a": "",
+    "t": "الوصي"
+   },
+   "zh": {
+    "a": "",
+    "t": "受托人"
+   },
+   "source": "GCF Programming Manual",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Investment framework",
+   "fr": {
+    "a": "",
+    "t": "Cadre d’investissement"
+   },
+   "es": {
+    "a": "",
+    "t": "Marco de inversión"
+   },
+   "ru": {
+    "a": "",
+    "t": "Инвестиционные рамки"
+   },
+   "ar": {
+    "a": "",
+    "t": "إطار الاستثمار"
+   },
+   "zh": {
+    "a": "",
+    "t": "投资框架"
+   },
+   "source": "Investment Framework for GCF-2",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Readiness and preparatory support",
+   "fr": {
+    "a": "",
+    "t": "Soutien à l’état de préparation et aux mesures préparatoires"
+   },
+   "es": {
+    "a": "",
+    "t": "Apoyo preparatorio"
+   },
+   "ru": {
+    "a": "",
+    "t": "Обеспечение готовности и оказание помощи на этапе подготовки"
+   },
+   "ar": {
+    "a": "",
+    "t": "الاستعداد والدعم التحضيري"
+   },
+   "zh": {
+    "a": "",
+    "t": "准备和筹备支持"
+   },
+   "source": "Investment Framework for GCF-2",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Readiness",
+   "fr": {
+    "a": "",
+    "t": "état de préparation"
+   },
+   "es": {
+    "a": "",
+    "t": "preparación"
+   },
+   "ru": {
+    "a": "",
+    "t": "готовность"
+   },
+   "ar": {
+    "a": "",
+    "t": "الاستعداد"
+   },
+   "zh": {
+    "a": "",
+    "t": "准备"
+   },
+   "source": "Investment Framework for GCF-2",
+   "note": "ES: this document folds readiness into ‘Apoyo preparatorio’; no standalone term."
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Mitigation",
+   "fr": {
+    "a": "",
+    "t": "atténuation"
+   },
+   "es": {
+    "a": "",
+    "t": "mitigación"
+   },
+   "ru": {
+    "a": "",
+    "t": "смягчение последствий"
+   },
+   "ar": {
+    "a": "",
+    "t": "التخفيف"
+   },
+   "zh": {
+    "a": "",
+    "t": "缓解"
+   },
+   "source": "Investment Framework for GCF-2",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Adaptation",
+   "fr": {
+    "a": "",
+    "t": "adaptation"
+   },
+   "es": {
+    "a": "",
+    "t": "adaptación"
+   },
+   "ru": {
+    "a": "",
+    "t": "адаптация"
+   },
+   "ar": {
+    "a": "",
+    "t": "التكييف"
+   },
+   "zh": {
+    "a": "",
+    "t": "适应"
+   },
+   "source": "Investment Framework for GCF-2",
+   "note": ""
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Impact potential",
+   "fr": {
+    "a": "",
+    "t": "Potentiel d’impact"
+   },
+   "es": {
+    "a": "",
+    "t": "Posibles impactos"
+   },
+   "ru": {
+    "a": "",
+    "t": "Потенциал воздействия"
+   },
+   "ar": {
+    "a": "",
+    "t": "إمكانات التأثير"
+   },
+   "zh": {
+    "a": "",
+    "t": "影响潜力"
+   },
+   "source": "Investment Framework for GCF-2",
+   "note": "Investment criterion (Table 2)"
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Paradigm shift potential",
+   "fr": {
+    "a": "",
+    "t": "Potentiel de changement de paradigme"
+   },
+   "es": {
+    "a": "",
+    "t": "Potencial de cambio de paradigma"
+   },
+   "ru": {
+    "a": "",
+    "t": "Потенциал смены парадигмы"
+   },
+   "ar": {
+    "a": "",
+    "t": "إمكانية تحقيق النقلة النوعية"
+   },
+   "zh": {
+    "a": "",
+    "t": "范式转变潜力"
+   },
+   "source": "Investment Framework for GCF-2",
+   "note": "Investment criterion (Table 2)"
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Sustainable development potential",
+   "fr": {
+    "a": "",
+    "t": "Potentiel de développement durable"
+   },
+   "es": {
+    "a": "",
+    "t": "Potencial de desarrollo sostenible"
+   },
+   "ru": {
+    "a": "",
+    "t": "Потенциал устойчивого развития"
+   },
+   "ar": {
+    "a": "",
+    "t": "إمكانية تحقيق تنمية مستدامة"
+   },
+   "zh": {
+    "a": "",
+    "t": "可持续发展潜力"
+   },
+   "source": "Investment Framework for GCF-2",
+   "note": "Investment criterion (Table 2)"
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Needs of the recipient",
+   "fr": {
+    "a": "",
+    "t": "Besoins du bénéficiaire"
+   },
+   "es": {
+    "a": "",
+    "t": "Necesidades del beneficiario"
+   },
+   "ru": {
+    "a": "",
+    "t": "Потребности получателя"
+   },
+   "ar": {
+    "a": "",
+    "t": "احتياجات المتلقي"
+   },
+   "zh": {
+    "a": "",
+    "t": "受援方的需求"
+   },
+   "source": "Investment Framework for GCF-2",
+   "note": "Investment criterion (Table 2)"
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Country ownership",
+   "fr": {
+    "a": "",
+    "t": "Appropriation par le pays"
+   },
+   "es": {
+    "a": "",
+    "t": "Implicación nacional"
+   },
+   "ru": {
+    "a": "",
+    "t": "Национальная ответственность"
+   },
+   "ar": {
+    "a": "",
+    "t": "الملكية القطرية"
+   },
+   "zh": {
+    "a": "",
+    "t": "国家自主权"
+   },
+   "source": "Investment Framework for GCF-2",
+   "note": "Cross-confirmed: identical rendering in the Accreditation Framework."
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Efficiency and effectiveness",
+   "fr": {
+    "a": "",
+    "t": "Efficacité et efficience"
+   },
+   "es": {
+    "a": "",
+    "t": "Eficiencia y eficacia"
+   },
+   "ru": {
+    "a": "",
+    "t": "Эффективность и результативность"
+   },
+   "ar": {
+    "a": "",
+    "t": "الفعالية والفاعلية"
+   },
+   "zh": {
+    "a": "",
+    "t": "效率和成效"
+   },
+   "source": "Investment Framework for GCF-2",
+   "note": "Investment criterion (Table 2)"
+  },
+  {
+   "type": "term",
+   "en_acronym": "",
+   "en_term": "Accreditation framework",
+   "fr": {
+    "a": "",
+    "t": "Cadre d’accréditation"
+   },
+   "es": {
+    "a": "",
+    "t": "Marco de acreditación"
+   },
+   "ru": {
+    "a": "",
+    "t": "Система аккредитации"
+   },
+   "ar": {
+    "a": "",
+    "t": "إطار الاعتماد"
+   },
+   "zh": {
+    "a": "",
+    "t": "认证框架"
+   },
+   "source": "Accreditation Framework of the GCF",
+   "note": ""
+  },
+  {
+   "type": "acronym",
+   "en_acronym": "PSAA",
+   "en_term": "project-specific assessment approach",
+   "fr": {
+    "a": "AESP",
+    "t": "approche d’évaluation spécifique au projet"
+   },
+   "es": {
+    "a": "EEEP",
+    "t": "enfoque de evaluación específico de proyectos"
+   },
+   "ru": {
+    "a": "",
+    "t": "подход на основе оценки конкретного проекта"
+   },
+   "ar": {
+    "a": "",
+    "t": "نهج التقييم المحدد بالنسبة للمشروع"
+   },
+   "zh": {
+    "a": "PSAA",
+    "t": "针对具体项目的评估方法"
+   },
+   "source": "Accreditation Framework of the GCF",
+   "note": "RU and AR do not abbreviate this; ZH keeps the English acronym PSAA."
+  }
+ ]
+}
